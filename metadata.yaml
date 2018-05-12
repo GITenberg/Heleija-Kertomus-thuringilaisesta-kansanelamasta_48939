@@ -1,9 +1,13 @@
 _repo: Heleija-Kertomus-thuringilaisesta-kansanelamasta_48939
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Peltonen, Ester
     gutenberg_agent_id: '44557'
     url: http://www.gutenberg.org/2009/agents/44557
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ludwig, Otto
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35764
     wikipedia: http://en.wikipedia.org/wiki/Otto_Ludwig_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48939#Heleija-Kertomus-thuringilaisesta-kansanelamasta
 gutenberg_issued: '2015-05-12'
 gutenberg_type: Text
 identifiers:
